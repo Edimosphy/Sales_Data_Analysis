@@ -13,3 +13,14 @@ The objective in this mini project is to focus on cleaning, exploring, and visua
 - Low customer retention
 - Ineffective sales and marketing campaigns
 - Low revenue
+
+## Step 2: Formulate Research Questions for the Dataset
+### Revenue - focused question
+- What are the top-selling products by revenue and quantity: Ths will highlight key revenue drivers and potential areas for growth.
+- Which customer segments generate the most revenue: This will focus on marketing efforts on high- value customers.
+- Are there any seasonal trends in sales for specific product categories over time: This will optimize inventory and marketing strategies by examining patterns.
+  
+### Customer satisfaction-focused question
+- What are the purchase frequencies and recency for different customer segments using Date and orderId:This can help understand customer engagement and loyalty.
+- Can we identify any customer segments that are more likely to purchase specific product categories: This can inform targeted marketing efforts.
+  
