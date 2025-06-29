@@ -31,6 +31,24 @@ The objective in this mini project is to focus on cleaning, exploring, and visua
 - Recommendation
 
 ## Visualization Images
-https://drive.google.com/file/d/1TVr7hiqhBAfo0R_vbnPQ37GRwzT6-0TC/view?usp=drive_link
+![image](https://github.com/user-attachments/assets/06de9299-2399-4433-837f-0bb85342c2d7)
+![image](https://github.com/user-attachments/assets/d9772547-d09c-43fa-a20c-f5797c95d23e)
+![image](https://github.com/user-attachments/assets/b24f250a-a3ec-4750-93d0-89880054a379)
+![image](https://github.com/user-attachments/assets/2acf43b4-e1cd-4e7d-879d-bb865b03b4a2)
+![image](https://github.com/user-attachments/assets/46794e36-b9ee-46d2-87e5-7a4d4ca5e087)
+![image](https://github.com/user-attachments/assets/d96ca12f-1d62-4f0e-99ea-5369e7f34203)
+
+## Remark of Performances from 3mtt
+![image](https://github.com/user-attachments/assets/1f0559f3-fc7b-4614-ba6f-bf381faca52e)
+
+## Dataset link
+https://drive.google.com/file/d/12sssxE5BHFE-vxpVMwMHzSXe3mDSXCm_/view?usp=drive_link
+
+
+
+
+
+
+
 
   
