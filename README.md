@@ -23,4 +23,14 @@ The objective in this mini project is to focus on cleaning, exploring, and visua
 ### Customer satisfaction-focused question
 - What are the purchase frequencies and recency for different customer segments using Date and orderId:This can help understand customer engagement and loyalty.
 - Can we identify any customer segments that are more likely to purchase specific product categories: This can inform targeted marketing efforts.
+
+## Workdone in the Python Notebook
+- Data Collection and Import, Cleaning and Transformation
+- EDA
+- Visualization, Identify Trends and Insights based on the Formulate Research Questions(From Step 2) for the Dataset
+- Recommendation
+
+## Visualization Images
+https://drive.google.com/file/d/1TVr7hiqhBAfo0R_vbnPQ37GRwzT6-0TC/view?usp=drive_link
+
   
